@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
 <h3 align="center">Computer science student at Cairo University</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to Mikey's World; Here you can find all my projects; below;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokhaled2004&label=Profile%20views&color=0e75b6&style=flat" alt="mokhaled2004" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mokhaled2004" target="blank"><img src="https://img.shields.io/twitter/follow/mokhaled2004?logo=twitter&style=for-the-badge" alt="mokhaled2004" /></a> </p>
