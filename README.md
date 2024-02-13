@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student at Cairo University</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to Mikey's Projects!;My name is MOHAMED KHALED;ENJOY&font=Helvetica&color=98FB98&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to Mo's Projects!;My name is MOHAMED KHALED;ENJOY&font=Helvetica&color=98FB98&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokhaled2004&label=Profile%20views&color=0e75b6&style=flat" alt="mokhaled2004" /> </p>
 
