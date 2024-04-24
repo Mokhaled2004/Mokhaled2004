@@ -1,5 +1,5 @@
 
-<img src="https://moewalls.com/wp-content/uploads/2023/03/sung-jinwoo-dagger-knight-killer-solo-leveling-thumb-364x205.jpg">
+
 <h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
 <h3 align="center">Computer science student at Cairo University</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/dxw06mkk8q461.gif">
