@@ -1,33 +1,3 @@
-Skip to content
-Navigation Menu
-Mokhaled2004
-/
-Mokhaled2004
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Commit
-Update README.md
- main
-@Mokhaled2004
-Mokhaled2004 committed on Apr 24 
-1 parent 53965c0
-commit 64b2e3e
-Showing 1 changed file with 1 addition and 1 deletion.
- 2 changes: 1 addition & 1 deletion2  
-README.md
-Original file line number	Diff line number	Diff line change
-@@ -1,5 +1,5 @@
-
-<img src="https://moewalls.com/wp-content/uploads/2023/03/sung-jinwoo-dagger-knight-killer-solo-leveling-thumb-364x205.jpg">
 
 <h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
 <h3 align="center">Computer science student at Cairo University</h3>
