@@ -3,13 +3,12 @@
 <h3 align="center">Computer science student at Cairo University</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to Mo's Projects!;My name is MOHAMED KHALED;ENJOY&font=Helvetica&color=98FB98&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to Mo's Projects!;My name is MOHAMED KHALED;ENJOY&font=Helvetica&color=#191970&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokhaled2004&label=Profile%20views&color=0e75b6&style=flat" alt="mokhaled2004" /> </p>
 <p align="left"> <a href="https://twitter.com/mokhaled2004" target="blank"><img src="https://img.shields.io/twitter/follow/mokhaled2004?logo=twitter&style=for-the-badge" alt="mokhaled2004" /></a> </p>
 - 🔭 I’m currently working on **HTMl and css**
 - 🌱 I’m currently learning **alx software engineering course**
-- 👨‍💻 All of my projects are available at [https://github.com/Mokhaled2004](https://github.com/Mokhaled2004)
 - 📫 How to reach me **mokhaled2004@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
