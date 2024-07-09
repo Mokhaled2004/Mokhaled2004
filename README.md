@@ -7,7 +7,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokhaled2004&label=Profile%20views&color=0e75b6&style=flat" alt="mokhaled2004" /> </p>
 <p align="left"> <a href="https://twitter.com/mokhaled2004" target="blank"><img src="https://img.shields.io/twitter/follow/mokhaled2004?logo=twitter&style=for-the-badge" alt="mokhaled2004" /></a> </p>
-- 🔭 I’m currently working on **HTMl and css**
+- 🔭 I’m currently working on my Portfolio Project (MarketMate)
 - 🌱 I’m currently learning **alx software engineering course**
 - 📫 How to reach me **mokhaled2004@gmail.com**
 <h3 align="left">Connect with me:</h3>
@@ -20,22 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokhaled2004&show_icons=true&locale=en&layout=compact" alt="mokhaled2004" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokhaled2004&show_icons=true&locale=en" alt="mokhaled2004" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokhaled2004&" alt="mokhaled2004" /></p>
-0 comments on commit 64b2e3e
-@Mokhaled2004
-Comment
- 
-Leave a comment
- 
- You’re receiving notifications because you’re watching this repository.
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-History for README.md - Mokhaled2004/Mokhaled2004 
+
