@@ -7,9 +7,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokhaled2004&label=Profile%20views&color=0e75b6&style=flat" alt="mokhaled2004" /> </p>
 <p align="left"> <a href="https://twitter.com/mokhaled2004" target="blank"><img src="https://img.shields.io/twitter/follow/mokhaled2004?logo=twitter&style=for-the-badge" alt="mokhaled2004" /></a> </p>
-- 🔭 I’m currently working on my Portfolio Project (MarketMate)
-- 🌱 I’m currently learning **alx software engineering course**
-- 📫 How to reach me **mokhaled2004@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mokhaled2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mokhaled2004" height="30" width="40" /></a>
