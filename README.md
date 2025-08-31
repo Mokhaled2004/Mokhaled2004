@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 # 💫 About Me  
 
@@ -31,7 +31,7 @@
     "Blend AI + IPS + Web for Real-World Impact"
   ]
 }
-</div>
+</div> ```
 
 
 ## 🌐 Socials:
