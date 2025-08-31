@@ -4,7 +4,7 @@
 
 ```json
 {
-  "name": "Mohamed Khaled (Dr. M)",
+  "name": "Mohamed Khaled",
   "role": "Full Stack Developer | MERN Stack Specialist",
   "education": "Computer Science & AI student @ Cairo University 🎓",
   "specialization": [
@@ -22,7 +22,6 @@
     "coding_style": "Clean, Optimized & Elegant ✨",
     "favorite_language": "Python 🐍",
     "leetcode": "Problem-Solving Enthusiast 🧩",
-    "best_hours": "Night Owl 🌙 (4PM – 2AM)",
     "hobbies": "Anime & Manga 📺 (inspired by Dr. Stone 🧪)"
   },
   "goals": [
