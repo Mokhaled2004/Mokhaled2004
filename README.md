@@ -1,6 +1,8 @@
-<div >
+<div align="center">
 
 # 💫 About Me  
+
+```json
 {
   "name": "Mohamed Khaled (Dr. M)",
   "role": "Full Stack Developer | MERN Stack Specialist",
@@ -29,6 +31,8 @@
     "Blend AI + IPS + Web for Real-World Impact"
   ]
 }
+</div>
+```
 
 
 
