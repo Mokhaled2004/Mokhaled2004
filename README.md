@@ -1,7 +1,7 @@
 
 <!-- Banner Section -->
 <div align="center">
-  <img src="https://your-banner-link-here.png" alt="Banner" width="100%" />
+  <img src="linkedInBanner.jpg" alt="Banner" width="100%" />
 </div>
 
 <div>
